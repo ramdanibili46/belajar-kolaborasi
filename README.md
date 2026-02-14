@@ -1,2 +1,3 @@
 # belajar-kolaborasi  
-Latihan melakukan Squash Changes
+Latihan melakukan Squash Changes  
+Letsgoww!!
